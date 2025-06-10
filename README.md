@@ -15,4 +15,7 @@ Cuando abrís la página, PHP se conecta con la base de datos y muestra los dato
 Cuando escribís un nuevo DNI, Legajo y Curso abajo, y tocás "Insertar Datos", PHP agarra eso y lo guarda en la base de datos.
 
 Después, cuando se actualiza la página, ese nuevo dato aparece en la tabla.
+
+Para poder entrar a la pagina se tiene que pines 127.0.0.1/Claudiño/index.php 
+con eso podras entrar a la pagina 
 ![Captura](https://github.com/user-attachments/assets/b279bca3-b2d2-4791-a768-58b726533f06)

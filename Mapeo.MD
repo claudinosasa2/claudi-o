@@ -1,9 +1,1 @@
-                     
-# Mapeo del Sistema
-
-Este es el diagrama del sistema:
-
-[Captura del diagrama](Configuración BD.PNG)
-
-Fin del documento.
-
+![Configuración de la Base de Datos](configuracion_bd.png)

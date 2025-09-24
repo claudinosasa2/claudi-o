@@ -1,0 +1,29 @@
+       #Ptoyecto
+El proyecto es una aplicación web sencilla desarrollada con tecnologías básicas como PHP, HTML, CSS, MySQL y ejecutada en un entorno local mediante XAMPP. 
+Su propósito principal es facilitar la gestión de estudiantes en un entorno educativo, como una escuela o curso,
+permitiendo ver y registrar información básica de los alumnos.
+
+        #Que hace?
+La aplicación permite visualizar una tabla con datos de alumnos ya registrados en la base de datos, como el DNI, el legajo y el curso, y también ofrece un formulario para agregar 
+nuevos estudiantes. Los datos que se ingresan se almacenan automáticamente en la base de datos y, al 
+actualizar la página, los nuevos registros aparecen en la tabla junto a los anteriores.
+Además, el proyecto contiene archivos que sugieren funcionalidades adicionales, como la gestión de notas de los estudiantes,
+aunque esa parte puede estar en desarrollo o no completamente implementada.
+
+   #Requerimiento Funcional
+ Mostrar una tabla con los datos actuales de todos los alumnos registrados.
+Permitir insertar nuevos estudiantes mediante un formulario.
+Guardar esos datos en la base de datos.
+Refrescar la tabla para mostrar los nuevos registros automáticamente.
+Conectarse correctamente a la base de datos al cargar la página.
+Manejar de manera adecuada errores de conexión o de inserción.
+
+   #Requerimiento no funcionales
+Características adicionales (requerimientos no funcionales)
+El sistema es ligero y fácil de usar, ideal para docentes o personal administrativo sin conocimientos técnicos.
+Debe ejecutarse localmente sin necesidad de conexión a Internet.
+Ofrece una respuesta rápida, ya que solo consulta o inserta datos simples.
+Se espera que funcione correctamente en cualquier computadora que tenga XAMPP instalado.
+El código está organizado de manera básica, pero funcional, lo que facilita su modificación o mejora futura.
+Es deseable que tenga cierta seguridad mínima, como validación de datos para evitar errores o inyecciones SQL.
+La interfaz es simple, clara y enfocada en una tarea concreta: mostrar y cargar estudiantes.

@@ -1,1 +1,1 @@
-![Configuración de la Base de Datos](configuracion_bd.png)
+![Configuración de la Base de Datos](Mapeobd.PNG)
